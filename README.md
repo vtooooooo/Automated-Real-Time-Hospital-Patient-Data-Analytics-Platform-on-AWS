@@ -39,6 +39,12 @@ Dashboard Name & Description
 5. Resource Utilization: Bed type usage and stay durations
 6. Longest Stay Analysis: Identify patients with extended hospital stays
 
+![Architecture Diagram](https://github.com/vtooooooo/Automated-Real-Time-Hospital-Patient-Data-Analytics-Platform-on-AWS/blob/main/dashboard_Screenshots/Doctor_Critical_Load.png?raw=true)
+![Architecture Diagram](https://github.com/vtooooooo/Automated-Real-Time-Hospital-Patient-Data-Analytics-Platform-on-AWS/blob/main/dashboard_Screenshots/Financial_Risk.png?raw=true)
+![Architecture Diagram](https://github.com/vtooooooo/Automated-Real-Time-Hospital-Patient-Data-Analytics-Platform-on-AWS/blob/main/dashboard_Screenshots/Hospital_Load.png?raw=true)
+![Architecture Diagram](https://github.com/vtooooooo/Automated-Real-Time-Hospital-Patient-Data-Analytics-Platform-on-AWS/blob/main/dashboard_Screenshots/Longest_stay.png?raw=true)
+![Architecture Diagram](https://github.com/vtooooooo/Automated-Real-Time-Hospital-Patient-Data-Analytics-Platform-on-AWS/blob/main/dashboard_Screenshots/Patient_inflow.png?raw=true)
+![Architecture Diagram](https://github.com/vtooooooo/Automated-Real-Time-Hospital-Patient-Data-Analytics-Platform-on-AWS/blob/main/dashboard_Screenshots/Resource%20Utilization.png?raw=true)
 
 
 **🎯 Key Achievements**
