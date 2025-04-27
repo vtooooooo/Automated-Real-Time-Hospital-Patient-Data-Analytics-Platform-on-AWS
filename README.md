@@ -6,7 +6,7 @@ This project builds a fully automated, real-time hospital patient data analytics
 
 **🏛️ Architecture Diagram**
 
-
+![Architecture Diagram](https://github.com/vtooooooo/Automated-Real-Time-Hospital-Patient-Data-Analytics-Platform-on-AWS/blob/main/architecture/architecture.png?raw=true)
 
 **🛠️ Tools and Technologies Used**
 
@@ -38,6 +38,8 @@ Dashboard Name & Description
 4. Doctor Critical Load: Track emergency doctors' load and emergency outcomes
 5. Resource Utilization: Bed type usage and stay durations
 6. Longest Stay Analysis: Identify patients with extended hospital stays
+
+
 
 **🎯 Key Achievements**
 
