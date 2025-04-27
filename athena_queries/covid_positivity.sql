@@ -1,0 +1,2 @@
+SELECT COUNT(*) AS total_tested, SUM(CASE WHEN covid_test_result = 'Positive' THEN 1 ELSE 0 END) AS positives, ROUND(100.0 * SUM(CASE WHEN covid_test_result = 'Positive' THEN 1 ELSE 0 END) / COUNT(*), 2) AS positivity_rate 
+FROM hospital_hospital_patient_data_bucket;

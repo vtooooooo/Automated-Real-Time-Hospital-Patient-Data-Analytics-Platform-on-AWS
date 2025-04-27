@@ -1,0 +1,2 @@
+SELECT COUNT(*) AS total, SUM(CASE WHEN readmission_within_30_days THEN 1 ELSE 0 END) AS readmitted, 
+ROUND(100.0 * SUM(CASE WHEN readmission_within_30_days THEN 1 ELSE 0 END) / COUNT(*), 2) AS readmission_rate_percent FROM hospital_hospital_patient_data_bucket;
