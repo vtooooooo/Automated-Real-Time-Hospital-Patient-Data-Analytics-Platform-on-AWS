@@ -74,6 +74,8 @@ Dashboard Name & Description
 4. Create EventBridge rules for automation.
 5. Import generated reports into QuickSight for visualization.
 
+Project Demonstration: https://drive.google.com/file/d/18ky4JtOHXN4Rn7m6v7ZHta9XibPT61UB/view?usp=drive_link
+
 
 
 
